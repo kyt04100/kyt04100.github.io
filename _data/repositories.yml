@@ -1,0 +1,10 @@
+github_users:
+  - kyt04100
+
+repo_description_lines_max: 2
+
+github_repos:
+  - kyt04100/market-daily
+  - kyt04100/market-daily-pipeline
+  - kyt04100/golf-record
+  - kyt04100/chae-bot

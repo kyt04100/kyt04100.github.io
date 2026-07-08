@@ -1,0 +1,40 @@
+cv:
+  name: Yoontae Kim
+  label: Graduate Researcher
+  email: kyt0410@yonsei.ac.kr
+  location: Seoul, South Korea
+  image: ""
+  summary: Graduate researcher at Intelligence Networking Lab, Yonsei University, working on 6G wireless communications, fluid antenna systems (FAS), and MIMO architectures with SDR testbed validation.
+
+  social_networks:
+    - network: GitHub
+      username: kyt04100
+
+  sections:
+    Education:
+      - institution: Yonsei University
+        location: Seoul, South Korea
+        url: https://www.yonsei.ac.kr/
+        area: Electrical and Electronic Engineering # TODO: confirm department name
+        studyType: Graduate program (M.S./Ph.D.) # TODO: confirm
+        start_date: 2025 # TODO: confirm
+        end_date: present
+        score: ""
+        courses: ""
+        highlights:
+          - Intelligence Networking Lab (Advisor — Prof. Chan-Byoung Chae)
+
+    Research Interests:
+      - label: Wireless Communications
+        details: Fluid Antenna Systems (PRA-FAS), Tri-Hybrid MIMO, 6G, channel estimation, SDR testbed validation
+
+    Presentations:
+      - name: Optimal Port Selection for PRA-FAS under Sparse Channel Conditions
+        date: 2026-04
+        location: JCCI 2026, South Korea
+        summary: 6G Cloud session presentation.
+
+    Projects:
+      - name: ABC-MIMO National R&D Project
+        date: 2026
+        summary: Administrative lead and researcher (Project No. 2021-0-00486). # TODO: adjust wording
